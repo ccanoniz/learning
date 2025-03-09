@@ -7,3 +7,7 @@
 ## [0.2.0] - 2025-02-01
 ### Added
 - exercises for tuples, dictionaries, sets, and slicing lists.
+
+## [0.3.0] - YYYY-MM-DD
+### Added
+- exercises for loops, conditional statements, and error handling
